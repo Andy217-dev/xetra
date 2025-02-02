@@ -206,8 +206,7 @@
                   { id: "about", title: "About" },
                   { id: "features", title: "Features" },
                   { id: "products", title: "Products" },
-                  { id: "resources", title: "Resources" },
-                  { id: "why-xetra", title: "Why Xetra" },
+                  { id: "resources", title: "Resources" },                  
                 ].map((e, t) =>
                   (0, s.jsxs)(
                     "div",
@@ -240,8 +239,7 @@
               { id: "about", title: "About" },
               { id: "features", title: "Features" },
               { id: "products", title: "Products" },
-              { id: "resources", title: "Resources" },
-              { id: "why-xetra", title: "Why Xetra" },
+              { id: "resources", title: "Resources" },              
             ],
             [t, a] = (0, l.useState)(e[0]),
             [i, r] = (0, l.useState)(!1),
@@ -875,12 +873,7 @@
             children: (0, s.jsxs)("section", {
               className:
                 "w-full lg:max-w-[1200px] 2xl:max-w-[1340px] h-full mx-auto relative py-10 lg:py-[60px]",
-              children: [
-                (0, s.jsx)(y, {
-                  icon: P,
-                  title: "Why Xetra AI",
-                  className: "w-[143px] mx-auto h-[36px]",
-                }),
+              children: [                   
                 (0, s.jsx)("h2", {
                   className:
                     "text-[32px] lg:text-[40px] text-[#0E121B] font-semibold font-chakra_petch text-center my-4",
@@ -1409,11 +1402,7 @@
                                       label: "Key Features",
                                     },
                                     { href: "#products", label: "Products" },
-                                    { href: "#resources", label: "Resources" },
-                                    {
-                                      href: "#why-xetra",
-                                      label: "Why Xetra AI",
-                                    },
+                                    { href: "#resources", label: "Resources" },                                    
                                   ].map((e) =>
                                     (0, s.jsx)(
                                       "li",
@@ -1533,7 +1522,7 @@
                                     },
                                     {
                                       href: "https://x.com/XetraAI",
-                                      label: "X",
+                                      label: "Twitter",
                                       icon: c,
                                     },
                                     {
@@ -1588,7 +1577,7 @@
                 (0, s.jsx)("p", {
                   className:
                     "py-4 text-center border-t-[1px] border-[#E1E4EA1A] mt-8 text-sm font-normal font-inter text-[#666]",
-                  children: "\xa9️ 2024 Xetra AI. All Rights Reserved.",
+                  children: "\xa9 2025 Xetra AI. All Rights Reserved.",
                 }),
               ],
             }),
