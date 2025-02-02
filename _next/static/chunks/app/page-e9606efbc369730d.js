@@ -59,10 +59,10 @@
         o = a(6648),
         h = a(7138);
       let A = [
-        { link: "https://t.me/XetraAI", icon: r },
-        { link: "https://x.com/XetraAI", icon: c },
-        { link: "https://docs.xetra.io", icon: n },
-        { link: "https://dapp.xetra.io", icon: d },
+        { link: "https://t.me/xetraai_eth", icon: r },
+        { link: "https://x.com/xetra_ai_eth", icon: c },
+        { link: "https://docs.xetraai.ink", icon: n },
+        { link: "https://app.xetraai.ink", icon: d },
       ];
       var p = () =>
           (0, s.jsx)("main", {
@@ -151,7 +151,7 @@
         g = (e) => {
           let { title: t, className: a } = e;
           return (0, s.jsx)(h.default, {
-            href: "https://dapp.xetra.io",
+            href: "https://app.xetraai.ink",
             target: "_blank",
             className: "".concat(
               a,
@@ -777,7 +777,7 @@
                                 "Develop your dApps with a personal AI assistant, the power of Xetra Engine.",
                             }),
                             (0, s.jsx)(h.default, {
-                              href: "https://dapp.xetra.io/?type=create",
+                              href: "https://app.xetraai.ink/?type=create",
                               target: "_blank",
                               className:
                                 "px-4 py-2 bg-white text-[#1B1B1B] capitalize font-semibold text-sm rounded-lg shadow-[0px_1px_2px_0px_rgba(9,9,11,0.12),0px_0px_0px_1px_rgba(9,9,11,0.08)]",
@@ -807,7 +807,7 @@
                                 "Build track, and manage and perfect your AI dApps in one unified space.",
                             }),
                             (0, s.jsx)(h.default, {
-                              href: "https://dapp.xetra.io/?type=my-apps",
+                              href: "https://app.xetraai.ink/?type=my-apps",
                               target: "_blank",
                               className:
                                 "px-4 py-2 bg-white text-[#1B1B1B] capitalize font-semibold text-sm rounded-lg shadow-[0px_1px_2px_0px_rgba(9,9,11,0.12),0px_0px_0px_1px_rgba(9,9,11,0.08)]",
@@ -998,7 +998,7 @@
                                 className: "w-[134px] h-[36px]",
                               }),
                               (0, s.jsx)(h.default, {
-                                href: "https://t.me/XetraAI",
+                                href: "https://t.me/xetraai_eth",
                                 target: "_blank",
                                 className:
                                   " bg-get-started group border border-[#09090B/80%] rounded-lg h-[36px] w-[107px] shadow-[0px_1px_2px_0px_rgba(9,9,11,0.12), 0px_0px_0px_1p_rgba(9, 9, 11, 0.08)]",
@@ -1152,7 +1152,7 @@
                           className: "w-[123px]",
                         }),
                         (0, s.jsx)(h.default, {
-                          href: "https://dapp.xetra.io/?type=store&tag=All",
+                          href: "https://app.xetraai.ink/?type=store&tag=All",
                           target: "_blank",
                           className:
                             "w-[169px] bg-get-started group border border-[#09090B/80%] rounded-lg h-[36px] shadow-[0px_1px_2px_0px_rgba(9,9,11,0.12), 0px_0px_0px_1p_rgba(9, 9, 11, 0.08)]",
@@ -1431,15 +1431,15 @@
                                   className: "space-y-2",
                                   children: [
                                     {
-                                      href: "https://dapp.xetra.io",
+                                      href: "https://app.xetraai.ink",
                                       label: "AI Chat Bot",
                                     },
                                     {
-                                      href: "https://dapp.xetra.io/?type=create",
+                                      href: "https://app.xetraai.ink/?type=create",
                                       label: "No-code IDE",
                                     },
                                     {
-                                      href: "https://dapp.xetra.io/?type=store&tag=All",
+                                      href: "https://app.xetraai.ink/?type=store&tag=All",
                                       label: "Marketplace",
                                     },
                                   ].map((e) =>
@@ -1516,22 +1516,22 @@
                                   className: "space-y-2",
                                   children: [
                                     {
-                                      href: "https://t.me/XetraAI",
+                                      href: "https://t.me/xetraai_eth",
                                       label: "Telegram",
                                       icon: r,
                                     },
                                     {
-                                      href: "https://x.com/XetraAI",
+                                      href: "https://x.com/xetra_ai_eth",
                                       label: "Twitter",
                                       icon: c,
                                     },
                                     {
-                                      href: "https://dapp.xetra.io/",
+                                      href: "https://app.xetraai.ink/",
                                       label: "Dapp",
                                       icon: d,
                                     },
                                     {
-                                      href: "https://docs.xetra.io/",
+                                      href: "https://docs.xetraai.ink/",
                                       label: "Docs",
                                       icon: n,
                                     },
@@ -1889,7 +1889,7 @@
                         "Turn your AI dreams into reality with Xetra AI - no coding, no limits, just unstoppable innovation on a censorship-resistant blockchain.",
                     }),
                     (0, s.jsx)(h.default, {
-                      href: "https://dapp.xetra.io",
+                      href: "https://app.xetraai.ink",
                       target: "_blank",
                       className:
                         "w-[344px] mx-auto flex items-center justify-center gap-4",
