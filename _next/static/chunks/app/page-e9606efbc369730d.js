@@ -1472,7 +1472,7 @@
                                   className: "space-y-2",
                                   children: [
                                     {
-                                      href: "https://etherscan.io/address/0xComingSoon",
+                                      href: "https://etherscan.io/address/0xCFDeAef5A13B5FB363c7F47a54D5aab3BD139bC4",
                                       label: "Etherscan",
                                     },
                                     {
@@ -1484,7 +1484,7 @@
                                       label: "Dextools",
                                     },
                                     {
-                                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
+                                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xCFDeAef5A13B5FB363c7F47a54D5aab3BD139bC4",
                                       label: "Buy",
                                     },
                                   ].map((e) =>
