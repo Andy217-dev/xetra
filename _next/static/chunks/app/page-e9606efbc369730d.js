@@ -1472,19 +1472,19 @@
                                   className: "space-y-2",
                                   children: [
                                     {
-                                      href: "https://etherscan.io/address/0x0f48E776a4D983C0dDDF4C0c946D66e3786F134f",
+                                      href: "https://etherscan.io/address/0xComingSoon",
                                       label: "Etherscan",
                                     },
                                     {
-                                      href: "https://dexscreener.com/ethereum/0x465802f1d78a0af10f17d2acce5c9bef76aad885",
+                                      href: "https://dexscreener.com/ethereum/0x000000000000000000",
                                       label: "Dexscreener",
                                     },
                                     {
-                                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x465802f1d78a0af10f17d2acce5c9bef76aad885?t=1735232319306",
+                                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000?t=1735232319306",
                                       label: "Dextools",
                                     },
                                     {
-                                      href: "https://app.uniswap.org/explore/tokens/ethereum/0x0f48e776a4d983c0dddf4c0c946d66e3786f134f",
+                                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
                                       label: "Buy",
                                     },
                                   ].map((e) =>
