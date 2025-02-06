@@ -1476,11 +1476,11 @@
                                       label: "Etherscan",
                                     },
                                     {
-                                      href: "https://dexscreener.com/ethereum/0x000000000000000000",
+                                      href: "https://dexscreener.com/ethereum/0xec3bc3a59742508d7827d019ef78cc86cd59c2cf",
                                       label: "Dexscreener",
                                     },
                                     {
-                                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000?t=1735232319306",
+                                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0xec3bc3a59742508d7827d019ef78cc86cd59c2cf?t=1735232319306",
                                       label: "Dextools",
                                     },
                                     {
