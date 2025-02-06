@@ -60,7 +60,7 @@
         h = a(7138);
       let A = [
         { link: "https://t.me/xetraai_eth", icon: r },
-        { link: "https://x.com/xetra_ai_eth", icon: c },
+        { link: "https://x.com/xetraai_eth", icon: c },
         { link: "https://docs.xetraai.xyz", icon: n },
         { link: "https://app.xetraai.xyz", icon: d },
       ];
@@ -1521,7 +1521,7 @@
                                       icon: r,
                                     },
                                     {
-                                      href: "https://x.com/xetra_ai_eth",
+                                      href: "https://x.com/xetraai_eth",
                                       label: "Twitter",
                                       icon: c,
                                     },
